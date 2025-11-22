@@ -49,9 +49,9 @@ Deployment
 
 🚀 How to Run Locally
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
-streamlit run app.py
+- streamlit run app.py
 
 
 🛠 Tech Stack
