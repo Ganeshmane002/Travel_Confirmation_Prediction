@@ -1,6 +1,6 @@
 🛍️ Customer Product Purchase Prediction (ProdTaken) — ML + Streamlit
 
-This project predicts whether a customer will purchase a product (ProdTaken) based on demographic, behavioral and marketing interaction features.
+- This project predicts whether a customer will purchase a product (ProdTaken) based on demographic, behavioral and marketing interaction features.
 
 📌 Project Workflow
 
